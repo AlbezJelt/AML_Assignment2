@@ -17,6 +17,9 @@ seaborn = "*"
 qhoptim = "*"
 keras-tuner = "*"
 joblib = "*"
+mltb = "*"
+plotly = "*"
+nbformat = "*"
 
 [requires]
 python_version = "3.8"
